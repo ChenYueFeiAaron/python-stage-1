@@ -1,0 +1,14 @@
+*****
+dic_server.py and dic_server.py are the server. 3 methods for searching the words. 1. file 2. sql database 3. mongodb
+
+dic_client.py client access
+
+support multi client
+
+insert_words.py for upload words from the files into mongo database
+
+upload_dict.py for upload words from files into sql database
+
+up_pic_mongo.py just for testing the picture reservered into the mongo db
+
+*******
